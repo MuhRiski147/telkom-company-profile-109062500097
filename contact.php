@@ -19,7 +19,7 @@ require 'includes/header.php';
                 <input id="nama" name="nama" required maxlength="100">
             </div>
             <div class="form-group">
-                <label for="email">EmailSAYA</label>
+                <label for="email">Email</label>
                 <input id="email" type="email" name="email" required maxlength="120">
             </div>
             <div class="form-group">
